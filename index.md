@@ -15,6 +15,7 @@ mit Partner:in teilst.
 ## Dokumente
 
 - [Datenschutzerklärung (Deutsch)](./privacy-policy.de.html)
+- [Impressum](./impressum.de.html)
 
 ## Kontakt
 

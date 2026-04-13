@@ -7,7 +7,7 @@
 Verantwortlich für die Verarbeitung personenbezogener Daten im Sinne von
 Art. 4 Nr. 7 DSGVO im Rahmen der App „Nori – Baby Journal" ist:
 
-**Maximilian Störn**<br>
+**Maximilian Stör**<br>
 Gartenstraße 16<br>
 91338 Igensdorf<br>
 E-Mail: maxstoer1@gmail.com
@@ -177,5 +177,5 @@ den Release-Notes angekündigt.
 
 Für Fragen zu diesem Dokument oder zur Verarbeitung deiner Daten:
 
-**Maximilian Störn**<br>
+**Maximilian Stör**<br>
 E-Mail: maxstoer1@gmail.com
