@@ -18,8 +18,8 @@ mit Partner:in teilst.
 
 ## Kontakt
 
-Support und Datenschutzanfragen: **{{KONTAKT_EMAIL}}**
+Support und Datenschutzanfragen: **maxstoer1@gmail.com**
 
 ---
 
-_Stand: {{STAND_DATUM}}_
+_Stand: April 2026_

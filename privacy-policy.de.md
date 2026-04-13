@@ -1,26 +1,16 @@
 # Datenschutzerklärung – Nori
 
-**Stand: {{STAND_DATUM}}**
-
-> **Hinweis:** Das ist ein Entwurf, der speziell auf Noris Funktionsumfang
-> und Datenflüsse zugeschnitten ist. Er ist **keine Rechtsberatung**. Bitte
-> lasse den Text vor Veröffentlichung von einer/einem Anwält:in oder
-> DSGVO-Berater:in prüfen — besonders die Abschnitte zur verantwortlichen
-> Stelle, zu internationalen Übermittlungen (USA/Apple) und zu den
-> Betroffenenrechten. Platzhalter in doppelten geschweiften Klammern
-> (`{{...}}`) musst du ersetzen, bevor du die Seite veröffentlichst.
-
----
+**Stand: April 2026**
 
 ## 1. Verantwortliche Stelle
 
 Verantwortlich für die Verarbeitung personenbezogener Daten im Sinne von
 Art. 4 Nr. 7 DSGVO im Rahmen der App „Nori – Baby Journal" ist:
 
-**{{ANBIETER_NAME}}**
-{{ANBIETER_ANSCHRIFT_STRASSE}}
-{{ANBIETER_ANSCHRIFT_PLZ_ORT}}
-E-Mail: {{KONTAKT_EMAIL}}
+**Maximilian Störn**
+Gartenstraße 16
+91338 Igensdorf
+E-Mail: maxstoer1@gmail.com
 
 Anfragen zum Datenschutz und zur Wahrnehmung der unter Punkt 8 genannten
 Betroffenenrechte richte bitte per E-Mail an die oben genannte Adresse.
@@ -157,7 +147,7 @@ folgende Rechte zu:
   https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html
 
 Zur Ausübung deiner Rechte erreichst du uns unter
-{{KONTAKT_EMAIL}}.
+maxstoer1@gmail.com.
 
 ## 9. Datensicherheit
 
@@ -179,24 +169,13 @@ Erziehungsberechtigten.
 
 Wir passen diese Datenschutzerklärung an, wenn sich Funktionen oder
 rechtliche Rahmenbedingungen ändern. Die jeweils aktuelle Fassung ist
-unter {{PRIVACY_URL}} abrufbar. Wesentliche Änderungen werden beim
-nächsten App-Update in den Release-Notes angekündigt.
+unter https://mapl92.github.io/nori-site/privacy-policy.de.html
+abrufbar. Wesentliche Änderungen werden beim nächsten App-Update in
+den Release-Notes angekündigt.
 
 ## 12. Kontakt
 
 Für Fragen zu diesem Dokument oder zur Verarbeitung deiner Daten:
 
-**{{ANBIETER_NAME}}**
-E-Mail: {{KONTAKT_EMAIL}}
-
----
-
-**Platzhalter, die du vor Veröffentlichung ausfüllen musst:**
-
-- `{{STAND_DATUM}}` — z. B. „April 2026"
-- `{{ANBIETER_NAME}}` — dein Name oder Firmenname
-- `{{ANBIETER_ANSCHRIFT_STRASSE}}` — ladungsfähige Anschrift
-- `{{ANBIETER_ANSCHRIFT_PLZ_ORT}}`
-- `{{KONTAKT_EMAIL}}` — Kontakt-E-Mail für Datenschutzanfragen
-- `{{PRIVACY_URL}}` — die öffentliche URL, unter der dieses Dokument
-  liegt (z. B. `https://nori-app.de/privacy` oder eine GitHub-Pages-URL)
+**Maximilian Störn**
+E-Mail: maxstoer1@gmail.com
