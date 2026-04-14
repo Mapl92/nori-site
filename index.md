@@ -14,6 +14,7 @@ mit Partner:in teilst.
 
 ## Dokumente
 
+- [Support & häufige Fragen](./support.de.html)
 - [Datenschutzerklärung (Deutsch)](./privacy-policy.de.html)
 - [Impressum](./impressum.de.html)
 
